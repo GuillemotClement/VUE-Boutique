@@ -2,6 +2,6 @@
 
 <template></template>
 
-<style lang="scss" scoped>
-// @import './assets/style/index.scss';
+<style lang="scss">
+@import './assets/style/index.scss';
 </style>
