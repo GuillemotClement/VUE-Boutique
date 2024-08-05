@@ -2,4 +2,6 @@
 
 <template></template>
 
-<style lang="scss"></style>
+<style lang="scss">
+@import './assets/style/index.scss';
+</style>
