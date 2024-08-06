@@ -1,9 +1,9 @@
 <script setup lang="ts">
 // On préfixe dans le cas ou le composant à le même nom qu'un élément HTML
-import TheHeader from './components/AppHeader.vue'
-import Cart from './components/AppCart.vue'
-import Shop from './components/AppShop.vue'
-import TheFooter from './components/AppFooter.vue'
+import TheHeader from './components/Header.vue'
+import Cart from './components/Cart/Cart.vue'
+import Shop from './components/Shop/Shop.vue'
+import TheFooter from './components/Footer.vue'
 </script>
 
 <template>
