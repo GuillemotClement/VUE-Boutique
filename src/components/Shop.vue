@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <p>Shop</p>
+  <div class="">
+    <p>Shop</p>
+  </div>
 </template>
 
-<style lang="scss"></style>
+<style lang="scss" scoped></style>

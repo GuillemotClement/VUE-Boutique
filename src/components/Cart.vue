@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <p>Cart</p>
+  <div class="">
+    <p>Cart</p>
+  </div>
 </template>
 
-<style lang="scss"></style>
+<style lang="scss" scoped></style>
