@@ -1,0 +1,26 @@
+.app-container {
+  min-height: 100vh;
+  display: grid;
+  // définition du placement des area
+  grid-template-areas:
+    'header header'
+    'shop cart'
+    'footer footer';
+  // Définition de la tailles des colonnes
+  grid-template-columns: 75% 25%;
+  //Définition de la taille des lignes
+  grid-template-rows: 48px auto 48px;
+}
+// nommage des zones
+.header {
+  grid-area: header;
+}
+.shop {
+  grid-area: shop;
+}
+.cart {
+  grid-area: cart;
+}
+.footer {
+  grid-area: footer;
+}
